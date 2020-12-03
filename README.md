@@ -13,10 +13,12 @@ The final report contains following sections:
 - References
 
 I use Python version 3.7.3 with the following packages:
-- pandas 0.25.0
-- numpy 1.17.1
-- sklearn 0.21.3
-- matplotlib 3.1.1
+- pandas 1.0.5
+- numpy=1.18.5
+- scikit-learn 0.23.1
+- matplotlib 3.2.2
+- py-xgboost 1.1.1
+- shap 0.35.0
 
 The src/environment.yml contains the packages you can use. The original data set is in the data folder. All tables and plots are in the figures folder. Reports are in the reports folder. The final model is in the results folder. All source code (ipython notebooks) are in the src folder. There is a LICENSE file indicating what you can and cannot do with the code.
 
