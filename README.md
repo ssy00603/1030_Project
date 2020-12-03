@@ -14,7 +14,7 @@ The final report contains following sections:
 
 I use Python version 3.7.3 with the following packages:
 - pandas 1.0.5
-- numpy=1.18.5
+- numpy 1.18.5
 - scikit-learn 0.23.1
 - matplotlib 3.2.2
 - py-xgboost 1.1.1
