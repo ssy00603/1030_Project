@@ -1,4 +1,4 @@
-name: data1030
+name: data1030-project
 channels:
   - conda-forge
   - defaults
